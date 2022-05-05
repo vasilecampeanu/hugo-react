@@ -1,0 +1,20 @@
+{
+    "name": "hugo-react",
+    "version": "1.0.0",
+    "description": "- [R1](https://www.wictorwilen.se/blog/how-to-add-a-react-script-to-hugo/) - [R2](https://www.arlmedia.ca/posts/combining-hugo-and-react/) - [R3](https://medium.com/age-of-awareness/setup-react-with-webpack-and-babel-5114a14a47e9)",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/vasilecampeanu/hugo-react.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/vasilecampeanu/hugo-react/issues"
+    },
+    "homepage": "https://github.com/vasilecampeanu/hugo-react#readme"
+}
