@@ -18,5 +18,17 @@ npm init -y
 
 Intsall react:
 ```
-npm install react react-dom
+npm install react react-dom --save
 ```
+
+Install webpack:
+```
+npm install webpack webpack-cli webpack-dev-server --save-dev
+npm install html-webpack-plugin --save-dev
+```
+
+Intsall babel:
+```
+npm install @babel/cli @babel/core @babel/preset-react --save-dev
+```
+
